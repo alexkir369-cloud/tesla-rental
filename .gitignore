@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# временные файлы и черновики
+_*.html
+*.tmp
+*.log
+
+# бэкапы
+*.zip
